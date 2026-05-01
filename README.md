@@ -32,4 +32,4 @@ Transformação de dados em insights relevantes para apoio à tomada de decisão
 - Desenvolver dashboard para visualização
 
 ## 🔗 Link / Visual
-[[Adicionar visualizações ou notebook do projeto](https://github.com/Callout84/loan-propensity-analysis/blob/main/lucro_threshold.png)](https://github.com/Callout84/loan-propensity-analysis/blob/main/lucro_threshold.png?raw=true)
+[[Adicionar visualizações ou notebook do projeto](https://github.com/Callout84/loan-propensity-analysis/blob/main/lucro_threshold.png)]
